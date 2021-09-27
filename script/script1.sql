@@ -1,0 +1,2 @@
+INSERT INTO TABLE (A)
+VALUES ('B');
